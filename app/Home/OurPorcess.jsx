@@ -6,7 +6,7 @@ import Image from "next/image";
 import { FaCheckCircle } from "react-icons/fa";
 import { FaPeopleGroup } from "react-icons/fa6";
 
-const RightImg = "/website_Recuirment/Strategy.jpg";
+const RightImg = "/website_Recuirment/strategy.jpg";
 
 const OurProcess = () => {
   useEffect(() => {
