@@ -146,6 +146,12 @@ const OurTeam = () => {
     title: "Social Media Strategist & Content Lead" 
   },
   { 
+    id: 7, 
+    image: "/website_Recuirment/Pictures/Rayyan1.png", 
+    text: "Rayyan", 
+    title: "Frontend UI Engineer" 
+  },
+  { 
     id: 5, 
     image: "/website_Recuirment/Pictures/Saad.png", 
     text: "Saad", 
@@ -156,12 +162,6 @@ const OurTeam = () => {
     image: "/website_Recuirment/Pictures/Ahmad1.png", 
     text: "Ahmad", 
     title: "Lead Art Strategist & Visual Designer" 
-  },
-  { 
-    id: 7, 
-    image: "/website_Recuirment/Pictures/Rayyan1.png", 
-    text: "Rayyan", 
-    title: "Frontend UI Engineer" 
   },
   { 
     id: 8, 

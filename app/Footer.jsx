@@ -196,9 +196,9 @@ const Footer = () => {
           <div className="flex gap-3 order-1 sm:order-2">
             {[
               [FaFacebook, "https://www.facebook.com/profile.php?id=61569306387156"],
+              [FaLinkedin, "https://www.linkedin.com/company/105699443/admin/page-posts/published/"],
+              [FaInstagram, "https://www.instagram.com/virtunests_solutions/"]
               [FaTwitter, "https://twitter.com"],
-              [FaLinkedin, "https://www.linkedin.com/company/virtunests-solutions/posts/?feedView=all"],
-              [FaInstagram, "https://instagram.com"]
             ].map(([SocialIcon, linkUrl], index) => {
               const IconComponent = SocialIcon;
               return (

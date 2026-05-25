@@ -48,7 +48,7 @@ const Services = () => {
     },
     {
       key: "content-writing",
-      imgs: "/website_Recuirment/Icon/content-writing1.png",
+      imgs: "/website_Recuirment/Icon/Content-writing1.png",
       text: "Content Writing",
       pragraph:
         "Compelling content that captures attention and builds trust.",
